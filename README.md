@@ -1,2 +1,2 @@
 # Pokemon
-Realizo consultas utilizando la api de pokemon.
+Realizo consultas utilizando la api de pokemon en android studio.
